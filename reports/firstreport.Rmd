@@ -1,0 +1,12 @@
+---
+title: "Scientist's first report"
+author: "Max Czapanskiy"
+date: "2023-06-20"
+output: html_document
+---
+
+Check this out
+
+```{r}
+plot(1, 1)
+```
